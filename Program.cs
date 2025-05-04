@@ -1,7 +1,4 @@
-﻿
-
-
-using MicrosoftDependecyInjection;
+﻿using MicrosoftDependecyInjection;
 using MicrosoftDependecyInjection.DI;
 using IServiceProvider = CustomDI.IServiceProvider;
 
